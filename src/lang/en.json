@@ -1,0 +1,48 @@
+{
+    "CFBundleDisplayName": "30seconds",
+    "NSContactsUsageDescription": "30seconds online",
+    "title":"30seconds",
+    "category":"Category",
+    "categories": {
+        "animals": {
+          "title": "Animals",
+          "description": "Identify the names of different animals from all over the world."
+        },
+        "movies": {
+          "title": "Movies",
+          "description": "Guess the titles of popular movies from different genres."
+        },
+        "celebrities": {
+          "title": "Celebrities",
+          "description": "Recognize the names of famous actors, actresses, musicians, and other notable personalities."
+        },
+        "food": {
+          "title": "Food",
+          "description": "Name different types of foods and dishes from various cuisines."
+        },
+        "sports": {
+          "title": "Sports",
+          "description": "Identify names of different sports and sporting events."
+        },
+        "countries": {
+          "title": "Countries",
+          "description": "Guess the names of countries from all continents."
+        },
+        "cartoon Characters": {
+          "title": "Cartoon Characters",
+          "description": "Name beloved characters from animated TV shows and movies."
+        },
+        "songs": {
+          "title": "Songs",
+          "description": "Identify the titles of well-known songs from different eras and artists."
+        },
+        "videogames": {
+          "title": "Video Games",
+          "description": "Recognize the names of popular video games from various platforms."
+        },
+        "famouslandmarks": {
+          "title": "Famous Landmarks",
+          "description": "Guess the names of iconic and well-known landmarks from around the world."
+        }      
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "CFBundleDisplayName": "30seconds",
+    "NSContactsUsageDescription": "30seconds online",
+    "title":"30seconds",
+    "category":"Categorie",
+    "categories": {
+      "animals": {
+        "title": "Dieren",
+        "description": "Raad de namen van verschillende dieren van over de hele wereld."
+      },
+      "movies": {
+        "title": "Films",
+        "description": "Identificeer de titels van populaire films uit verschillende genres."
+      },
+      "celebrities": {
+        "title": "Beroemdheden",
+        "description": "Herken de namen van beroemde acteurs, actrices, muzikanten en andere bekende persoonlijkheden."
+      },
+      "food": {
+        "title": "Eten",
+        "description": "Noem verschillende soorten voedsel en gerechten uit verschillende keukens."
+      },
+      "sports": {
+        "title": "Sporten",
+        "description": "Identificeer namen van verschillende sporten en sportevenementen."
+      },
+      "countries": {
+        "title": "Landen",
+        "description": "Raad de namen van landen van over de hele wereld."
+      },
+      "cartoon Characters": {
+        "title": "Cartoonkarakters",
+        "description": "Noem geliefde personages uit geanimeerde tv-shows en films."
+      },
+      "songs": {
+        "title": "Liedjes",
+        "description": "Identificeer de titels van bekende liedjes uit verschillende tijdperken en van diverse artiesten."
+      },
+      "videogames": {
+        "title": "Videogames",
+        "description": "Herken de namen van populaire videospellen van verschillende platforms."
+      },
+      "famouslandmarks": {
+        "title": "Beroemde Bezienswaardigheden",
+        "description": "Raad de namen van iconische en bekende bezienswaardigheden van over de hele wereld."
+      }
+    
+  }
+}

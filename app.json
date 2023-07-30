@@ -2,6 +2,7 @@
   "expo": {
     "name": "30Seconds",
     "slug": "30Seconds",
+    "scheme": "30Seconds",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,8 +24,14 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+   
+    "plugins": [
+      "expo-localization",
+      "expo-router"
+    ],
+    "locales": {
+      "en": "./app/resources/en.json",
+      "nl": "./app/resources/nl.json"
     }
   }
 }
