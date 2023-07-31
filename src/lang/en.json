@@ -1,8 +1,14 @@
 {
-    "CFBundleDisplayName": "30seconds",
-    "NSContactsUsageDescription": "30seconds online",
-    "title":"30seconds",
+    "CFBundleDisplayName": "Headsup",
+    "NSContactsUsageDescription": "Headsup mobile",
+    "title":"Headsup",
     "category":"Category",
+    "game":{
+      "title":"Headsup",
+      "description":"Please Place your Phone on Forehead to start the Game",
+      "start":"Start",
+      "chosenCategory":"Chosen Category",
+    },
     "categories": {
         "animals": {
           "title": "Animals",
@@ -28,7 +34,7 @@
           "title": "Countries",
           "description": "Guess the names of countries from all continents."
         },
-        "cartoon Characters": {
+        "cartoonCharacters": {
           "title": "Cartoon Characters",
           "description": "Name beloved characters from animated TV shows and movies."
         },

@@ -1,8 +1,14 @@
 {
-    "CFBundleDisplayName": "30seconds",
-    "NSContactsUsageDescription": "30seconds online",
-    "title":"30seconds",
+    "CFBundleDisplayName": "Headups",
+    "NSContactsUsageDescription": "Headups mobile",
+    "title":"Headups",
     "category":"Categorie",
+    "game":{
+      "title":"Headsup",
+      "description":"Plaats je telefoon op je voorhoofd om te beginnen",
+      "start":"Start",
+      "chosenCategory":"Gekozen categorie"
+    },
     "categories": {
       "animals": {
         "title": "Dieren",
@@ -28,7 +34,7 @@
         "title": "Landen",
         "description": "Raad de namen van landen van over de hele wereld."
       },
-      "cartoon Characters": {
+      "cartoonCharacters": {
         "title": "Cartoonkarakters",
         "description": "Noem geliefde personages uit geanimeerde tv-shows en films."
       },

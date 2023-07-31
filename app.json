@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "30Seconds",
-    "slug": "30Seconds",
-    "scheme": "30Seconds",
+    "name": "headsup",
+    "slug": "headsup",
+    "scheme": "headsup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,11 +12,15 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "experiments":{
+      "tsconfigPaths":true
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "requireFullScreen": true
     },
     "android": {
       "adaptiveIcon": {
@@ -27,7 +31,13 @@
    
     "plugins": [
       "expo-localization",
-      "expo-router"
+      "expo-router",
+      [
+        "expo-screen-orientation",
+      {
+        "initialOrientation": "PORTRAIT"
+      }
+      ]
     ],
     "locales": {
       "en": "./app/resources/en.json",
